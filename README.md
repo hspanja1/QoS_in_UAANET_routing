@@ -1,6 +1,6 @@
 # QoS in Unmanned Aerial Ad Hoc Network (UAANET)
 
-Ovaj repozitorij sadrži praktični dio projekta iz predmeta **Kvaliteta usluge u telekomunikacijskim mrežama**. Projekat se bavi simulacijskom analizom rutirajućih protokola u UAV ad hoc mrežama, odnosno UAANET/FANET okruženju, korištenjem ns-3 simulatora.
+Projekat se bavi simulacijskom analizom rutirajućih protokola u UAV ad hoc mrežama, odnosno UAANET/FANET okruženju, korištenjem ns-3 simulatora.
 
 Cilj projekta je porediti ponašanje različitih rutirajućih protokola u dinamičnoj mreži bespilotnih letjelica, pri čemu se posmatraju pouzdanost isporuke paketa, kašnjenje i routing overhead.
 
